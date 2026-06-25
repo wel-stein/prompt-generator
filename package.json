@@ -1,0 +1,20 @@
+{
+  "name": "prompt-structure-generator",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A React web app to compose prompts using the 10-part prompt structure and merge them into a single copy-ready message.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
